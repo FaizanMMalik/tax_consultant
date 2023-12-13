@@ -68,7 +68,7 @@
                     <div class="about2-author-images">
                         <div class="about2-author-images">
                             <div class="about2-scetion-images" data-aos="zoom-out" data-aos-duration="1200">
-                                <img src="{{ asset("assets/images/person/mhco_ceo.png") }}" style="width:600px"
+                                <img src="{{ asset("assets/images/person/ceo2.png") }}" style="width:600px"
                                     alt="">
                                 <div class="floating-text" data-aos="fade-left" data-aos-duration="1400">CEO - Muhammad
                                     Hussain</div>
@@ -77,7 +77,7 @@
                         <div class="row">
                             <div class="about2-author-images">
                                 <div class="about2-scetion-images" data-aos="zoom-out" data-aos-duration="1200">
-                                    <img src="{{ asset("assets/images/person/mhco_manager.jpg") }}" style="width:600px"
+                                    <img src="{{ asset("assets/images/person/manager2.png") }}" style="width:600px"
                                         alt="">
                                     <div class="floating-text">Manager - Muhammad Bilal</div>
                                 </div>

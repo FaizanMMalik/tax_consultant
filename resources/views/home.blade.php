@@ -47,7 +47,7 @@
                 <div class="col-lg-6" data-aos="fade-right" data-aos-duration="1000">
                     <div class="about2-author-images">
                         <div class="about2-scetion-images" data-aos="zoom-out" data-aos-duration="1200">
-                            <img src="{{ asset("assets/images/person/mhco_ceo.png") }}" alt="">
+                            <img src="{{ asset("assets/images/person/ceo2.png") }}" alt="">
                             <div class="floating-text"  data-aos="fade-left" data-aos-duration="1400"  >CEO - Muhammad Hussain</div>
                         </div>
                     </div>
