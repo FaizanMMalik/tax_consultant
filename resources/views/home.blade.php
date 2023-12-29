@@ -341,7 +341,7 @@
                                 Contact us today to ascend to greater tier of financial success.
                             <div class="contact-info">
                                 <label>Phone:</label>
-                                <a href="tel:+92514348093"><span style="color: white;">(051) 4348093</span></a>
+                                <a href="tel:+92514348093"><span style="color: white;">(051) 2348093 </span></a>
                                 <a href="tel:+92512348094"><span style="color: white;">(051) 2348094</span></a>
                                 <label>Mobile:</label>
                                 <a href="https://api.whatsapp.com/send?phone=923335124166"><span
@@ -552,13 +552,13 @@
                                     <div class="email4 margin-t">
                                         <img src="{{ asset("assets/images/icons/phone7.svg") }}" alt="">
                                         <a href="https://api.whatsapp.com/send?phone=923335124166"
-                                            class="font-16 lineh-24 colorhp1 weight-500 font-ks">Mobile:03335124166</a>
+                                            class="font-16 lineh-24 colorhp1 weight-500 font-ks">Mobile: 03335124166</a>
                                     </div>
                                     <div class="email4 margin-t">
                                         <img src="{{asset("assets/images/icons/phone7.svg")}}" alt="">
                                         <a href="tel:+92514348093"
                                             class="font-ks font-11 lineh-16 weight-500 colorhp1 margin-t d-inline-block">
-                                            Phone:<br>0514348093
+                                            Phone:<br>0512348093 
 
                                         </a>
                                         <a href="tel:+92512348094"

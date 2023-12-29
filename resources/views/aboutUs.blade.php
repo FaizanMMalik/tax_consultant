@@ -353,14 +353,13 @@
                                     <div class="email4 margin-t">
                                         <img src="assets/images/icons/phone7.svg" alt="">
                                         <a href="tel:123-456-7890"
-                                            class="font-16 lineh-24 colorhp1 weight-500 font-ks">Mobile :
-                                            03335124166</a>
+                                            class="font-16 lineh-24 colorhp1 weight-500 font-ks">Mobile: 03335124166</a>
                                     </div>
                                     <div class="email4 margin-t">
                                         <img src="{{ asset("assets/images/icons/phone7.svg") }}" alt="">
                                         <a href="tel:+92514348093"
                                             class="font-ks font-11 lineh-16 weight-500 colorhp1 margin-t d-inline-block">
-                                            Phone:<br>0514348093
+                                            Phone:<br>0512348093 
 
                                         </a>
                                         <a href="tel:+92512348094"
